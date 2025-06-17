@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **mono404fun@gmail.com**
 
-- ⚡ Fun fact **I think I'm simple, funny, and a little bit cool.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
