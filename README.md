@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mono</h1>
-<h3 align="center">A professional software - web - game - malware developper.</h3>
+<h3 align="center">A Software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mono404fun&label=Profile%20views&color=0e75b6&style=flat" alt="mono404fun" /> </p>
 
